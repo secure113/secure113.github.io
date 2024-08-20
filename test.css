@@ -1,5 +1,18 @@
 div {
- background-color: #155724;
- height:100px;
- width:100%;
-}
+      background-image: url("https://media.giphy.com/media/WAInq2ktLbAuQ/giphy.gif");
+      position:fixed;
+      color: #155724;
+      background-color: #d4edda;
+      border-bottom: 5px solid #c3e6cb;
+      padding: 0.75rem 1.25rem;
+      font-size: 40px;
+      padding: 5px;
+      height:100px;
+      width:100%;
+      content: "Exfiltrating...";
+      font-family:Arial;
+      box-sizing: border-box;
+      z-index: 2147483647;
+      display: flex;
+      align-items: center;
+  }  
